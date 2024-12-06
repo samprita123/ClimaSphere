@@ -39,13 +39,10 @@ Obtain your API key from OpenWeatherMap or any other provider.
 - WEATHER_API_KEY=your_api_key_here
 
 ## Run the application
-
-```bash
 - npm start
 
 ## License
- This project is licensed under the MIT License.
-
+This project is licensed under the MIT License.
 ## Acknowledgements
 - Weather data provided by OpenWeatherMap.
 - UI inspiration from modern design principles.
