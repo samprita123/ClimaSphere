@@ -24,8 +24,39 @@
 
 1. *Clone the repository*  
    ```bash  
-   git clone https://github.com/your-username/ClimaSphere.git  
+   git clone https://github.com/samprita123/ClimaSphere.git  
    cd ClimaSphere
+
+##Install Dependencies
+--npm install
+
+##Set up API Key
+
+Obtain your API key from OpenWeatherMap or any other provider.
+--Add the key to the .env file:
+--makefile
+--WEATHER_API_KEY=your_api_key_here
+
+##Run the application
+
+```bash
+--npm start
+
+##License
+This project is licensed under the MIT License.
+
+##Acknowledgements
+--Weather data provided by OpenWeatherMap.
+--UI inspiration from modern design principles.
+
+##Contact
+For queries, suggestions, or feedback, please reach out to:
+Developer: [samprita]
+Email: [sampritapatra123@gmail.com]
+GitHub: https://github.com/samprita123
+
+Enjoy seamless weather tracking with ClimaSphere! 🌈
+"""
 
 THANK YOU !!
 Feel free to contribute or provide feedback! 🎶
