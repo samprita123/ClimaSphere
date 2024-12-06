@@ -50,8 +50,11 @@ This project is licensed under the MIT License.
 ## Contact
 
 For queries, suggestions, or feedback, please reach out to:
+
 Developer: [samprita]
+
 Email: [sampritapatra123@gmail.com]
+
 GitHub: https://github.com/samprita123
 
 Enjoy seamless weather tracking with ClimaSphere! 🌈
