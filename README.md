@@ -41,8 +41,6 @@ Obtain your API key from OpenWeatherMap or any other provider.
 ## Run the application
 - npm start
 
-## sample ScreenShot
-![Your weather](E:\Pictures\Screenshots\Screenshot 2024-12-06 121458.png)
 ## License
 This project is licensed under the MIT License.
 ## Acknowledgements
